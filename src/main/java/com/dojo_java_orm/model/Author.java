@@ -7,22 +7,21 @@ import lombok.Setter;
 import java.util.HashSet;
 import java.util.Set;
 
-//TODO Exo1
-//@Entity
+@Entity
 @Getter
 @Setter
-//@Table(name = "author")
+@Table(name = "author")
 public class Author {
     //EXO1
-//    @Id
-//    @GeneratedValue(strategy = GenerationType.AUTO)
+    @Id
+    @GeneratedValue(strategy = GenerationType.AUTO)
     private Long id;
     private String name;
 
-    //TODO Exo2
-   // @OneToMany(fetch = FetchType.LAZY)
+    //Exo2
+    // @OneToMany(fetch = FetchType.LAZY)
     //@JoinColumn(name = "author_id",referencedColumnName = "id")
-    //TODO EXO3
+    //EXO3
 //    @ManyToMany(mappedBy = "authors",cascade = CascadeType.MERGE)
 //    private Set<Book> books = new HashSet<>();
 }

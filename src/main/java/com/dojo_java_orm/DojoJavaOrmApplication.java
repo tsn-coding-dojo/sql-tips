@@ -16,16 +16,14 @@ public class DojoJavaOrmApplication {
 
     private static AuthorRepository authorRepository;
     private static BookRepository bookRepository;
-    private static LibraryRepository libraryRepository;
 
     @Autowired
     public DojoJavaOrmApplication(AuthorRepository authorRepository,
-                                  BookRepository bookRepository,
-                                  LibraryRepository libraryRepository)
+                                  BookRepository bookRepository
+                                  )
     {
         this.authorRepository = authorRepository;
         this.bookRepository = bookRepository;
-        this.libraryRepository = libraryRepository;
     }
 
 
@@ -40,13 +38,9 @@ public class DojoJavaOrmApplication {
         Author author1 = new Author();
         author1.setName("titi");
         authorRepository.save(author1);
-        Set<Author> authors = new HashSet<>();
-        authors.add(author);
-        authors.add(author1);
 
         Book book = new Book();
         book.setTitle("livre 1");
-        book.setAuthors(authors);
         bookRepository.save(book);
         Book book1 = new Book();
         book1.setTitle("livre2");
@@ -62,5 +56,12 @@ public class DojoJavaOrmApplication {
 //        authorRepository.save(author);
 //        authorRepository.save(author1);
 
+        //Exo 3
+
+//        Set<Author> authors = new HashSet<>();
+//        authors.add(author);
+//        authors.add(author1);
+//        book.setAuthors(authors);
+//        bookRepository.save(book);
     }
 }
