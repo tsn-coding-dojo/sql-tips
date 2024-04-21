@@ -1,0 +1,1000 @@
+1,1,verte,37,Innsbruck,Paraguay
+2,2,verte,34,Taichung,Niger
+3,3,rouge,37,Portland,Bermuda
+4,4,rouge,55,Naples,Antarctica
+5,5,jaune,61,Valdivia,"Congo, The Democratic Republic of the"
+6,6,verte,69,Palma,Portugal
+7,7,verte,69,Medan,"Tanzania, United Republic of"
+8,8,noire,52,Sapporo,Guadeloupe
+9,9,blanche,73,Buenos Aires,Bulgaria
+10,10,orange,51,Kobe,Zimbabwe
+11,11,rouge,52,Libreville,Macao
+12,12,bleue,38,Honolulu,Antarctica
+13,13,bleue,66,Surabaya,Indonesia
+14,14,jaune,30,Cairns,Kiribati
+15,15,rouge,51,Chongjin,United States Minor Outlying Islands
+16,16,jaune,53,Cuiabá,Bosnia and Herzegovina
+17,17,jaune,55,Hargeisa,Liberia
+18,18,noire,46,Marrakech,Romania
+19,19,rouge,25,Chiang Mai,Burkina Faso
+20,20,orange,32,Padang,Guernsey
+21,21,orange,67,Guatemala City,Jamaica
+22,22,blanche,30,Johor Bahru,Guatemala
+23,23,bleue,55,Da Nang,Bermuda
+24,24,verte,17,Funafuti,French Polynesia
+25,25,jaune,51,Zamboanga City,Nauru
+26,26,bleue,22,Pristina,Equatorial Guinea
+27,27,marron,70,Bandung,Libyan Arab Jamahiriya
+28,28,blanche,63,Port Elizabeth,Nauru
+29,29,rouge,26,Quetzaltenango,Guinea-Bissau
+30,30,orange,38,Cotonou,Central African Republic
+31,31,jaune,28,Ulan Bator,Dominica
+32,32,bleue,63,Phnom Penh,Western Sahara
+33,33,noire,68,Kaesong,Hong Kong
+34,34,verte,46,City of San Marino,Cayman Islands
+35,35,rouge,31,São José dos Campos,Antigua and Barbuda
+36,36,blanche,39,Ankara,Bermuda
+37,37,rouge,52,Rotterdam,Singapore
+38,38,jaune,63,Ürümqi,Gibraltar
+39,39,orange,68,Dunedin,Armenia
+40,40,marron,19,Oklahoma City,El Salvador
+41,41,rouge,16,Abuja,Brazil
+42,42,blanche,25,Fairbanks,Brazil
+43,43,noire,30,Geneva,Seychelles
+44,44,orange,25,Palikir,"Micronesia, Federated States of"
+45,45,verte,29,Dushanbe,Solomon Islands
+46,46,blanche,27,Kinshasa,Djibouti
+47,47,noire,47,Shillong,Oman
+48,48,jaune,55,Multan,Nepal
+49,49,orange,33,Surabaya,Solomon Islands
+50,50,verte,35,Brasília,Saudi Arabia
+51,51,jaune,21,Dakar,Liechtenstein
+52,52,jaune,40,Córdoba,Gibraltar
+53,53,bleue,65,Kinshasa,Guinea-Bissau
+54,54,rouge,29,Omdurman,Myanmar
+55,55,orange,34,Helsinki,Tokelau
+56,56,orange,69,Kathmandu,Austria
+57,57,verte,20,Shanghai,French Southern Territories
+58,58,marron,72,Pittsburgh,Sweden
+59,59,jaune,64,Palikir,Fiji
+60,60,verte,30,Ljubljana,Bulgaria
+61,61,rouge,55,Surabaya,Sudan
+62,62,bleue,43,Hagåtña,Singapore
+63,63,bleue,46,Zanzibar City,Cote D'Ivoire
+64,64,orange,43,Busan,Switzerland
+65,65,marron,49,Kinshasa,Comoros
+66,66,rouge,72,Kansas City,"Virgin Islands, British"
+67,67,bleue,61,Rabat,Bhutan
+68,68,marron,39,Zanzibar City,South Africa
+69,69,orange,55,Port Louis,Malta
+70,70,rouge,15,Dalian,Sierra Leone
+71,71,rouge,51,Basra,Ireland
+72,72,verte,51,Ludhiana,Svalbard and Jan Mayen
+73,73,bleue,75,Saipan,Mozambique
+74,74,noire,51,Taiyuan,Guyana
+75,75,noire,74,Belfast,Spain
+76,76,orange,66,Iloilo City,Samoa
+77,77,blanche,40,Davao City,Pakistan
+78,78,blanche,58,Suez,Finland
+79,79,orange,18,Mwanza,Nicaragua
+80,80,jaune,24,Cockburn Town,South Georgia and the South Sandwich Islands
+81,81,orange,59,Alor Star,Nepal
+82,82,orange,26,Basse-Terre,"Micronesia, Federated States of"
+83,83,orange,36,Cardiff,Antarctica
+84,84,rouge,46,Hanga Roa,Philippines
+85,85,rouge,75,Phuket (city),Peru
+86,86,bleue,39,Monaco,Bouvet Island
+87,87,blanche,47,Mata-Utu,Grenada
+88,88,blanche,48,Kinshasa,Brunei Darussalam
+89,89,bleue,73,Makati City,Lebanon
+90,90,noire,64,Hanover,Paraguay
+91,91,jaune,32,Dublin,Liberia
+92,92,noire,56,Vitória,Gabon
+93,93,bleue,39,Cotonou,Croatia
+94,94,jaune,33,Cairo,Nepal
+95,95,blanche,58,Dammam,Nicaragua
+96,96,verte,31,Padang,Slovenia
+97,97,bleue,67,Calama,Kuwait
+98,98,blanche,16,Calgary,Chad
+99,99,jaune,75,Pekanbaru,Cape Verde
+100,100,jaune,36,Mamoudzou,Guinea-Bissau
+101,101,marron,16,Vladivostok,Maldives
+102,102,blanche,17,Dibrugarh,Barbados
+103,103,verte,29,Abu Dhabi,South Africa
+104,104,blanche,24,Guwahati,China
+105,105,jaune,46,Basse-Terre,Aruba
+106,106,orange,43,Kaohsiung,Fiji
+107,107,orange,43,Oslo,Indonesia
+108,108,jaune,30,Pristina,Holy See (Vatican City State)
+109,109,marron,26,Ljubljana,Guernsey
+110,110,orange,16,Asunción,Tonga
+111,111,blanche,75,Gangtok,Nigeria
+112,112,orange,29,Wollongong,Kuwait
+113,113,orange,21,Gaborone,Iraq
+114,114,noire,49,Riverside,Jamaica
+115,115,noire,60,Jeddah,Brazil
+116,116,bleue,52,Andorra la Vella,Canada
+117,117,jaune,40,Thiès,Cameroon
+118,118,noire,21,Gdańsk,Angola
+119,119,verte,73,Valencia,Australia
+120,120,verte,46,Philadelphia,Guinea
+121,121,rouge,56,Astana,Tuvalu
+122,122,noire,38,Manaus,Tonga
+123,123,rouge,15,Ciudad del Este,Albania
+124,124,marron,29,Balikpapan,Uganda
+125,125,blanche,28,Batticaloa,Bangladesh
+126,126,verte,40,Madrid,"Palestinian Territory, Occupied"
+127,127,noire,40,Ushuaia,Eritrea
+128,128,jaune,63,Bissau,Slovenia
+129,129,noire,18,Surabaya,American Samoa
+130,130,bleue,27,San Salvador,Swaziland
+131,131,jaune,64,Apia,Uganda
+132,132,jaune,46,Maracaibo,Malaysia
+133,133,bleue,64,Durango,Palau
+134,134,noire,20,Nassau,Malta
+135,135,blanche,53,Linz,Antarctica
+136,136,blanche,43,Geneva,Armenia
+137,137,verte,63,Mexico City,"Micronesia, Federated States of"
+138,138,orange,52,Handan,Qatar
+139,139,bleue,73,Albuquerque,Malta
+140,140,rouge,18,Tripoli,Portugal
+141,141,marron,69,Davao City,Monaco
+142,142,jaune,19,Málaga,Guinea
+143,143,noire,62,Kabul,Qatar
+144,144,blanche,46,Cayenne,Senegal
+145,145,verte,27,Sabha,Malawi
+146,146,blanche,35,Nuuk,Panama
+147,147,orange,39,Rome,Mexico
+148,148,verte,41,Rockhampton,Brunei Darussalam
+149,149,orange,66,Forked River,Uganda
+150,150,orange,29,Addis Ababa,Norfolk Island
+151,151,verte,19,Hobart,Wallis and Futuna
+152,152,bleue,47,Nice,Saint Helena
+153,153,rouge,23,Hiroshima,Afghanistan
+154,154,verte,61,Nanjing,Netherlands Antilles
+155,155,orange,16,Bergen,Costa Rica
+156,156,verte,43,Kaohsiung,Chad
+157,157,bleue,52,Rawalpindi,AndorrA
+158,158,orange,19,Cuiabá,United Kingdom
+159,159,orange,27,Oklahoma City,Guernsey
+160,160,verte,22,Doha,Yemen
+161,161,blanche,75,Strasbourg,Antigua and Barbuda
+162,162,verte,62,Adamstown,Pakistan
+163,163,jaune,18,Avarua,Macao
+164,164,orange,56,Miami,Guam
+165,165,rouge,70,Wellington,Burkina Faso
+166,166,orange,51,New York City,Falkland Islands (Malvinas)
+167,167,rouge,19,Longyearbyen,Holy See (Vatican City State)
+168,168,blanche,51,Assis,Czech Republic
+169,169,jaune,32,Mbabane,Malta
+170,170,bleue,62,Faisalabad,Singapore
+171,171,bleue,15,Kota Bharu,Cameroon
+172,172,blanche,29,Dallas,Zimbabwe
+173,173,bleue,61,Muscat,Canada
+174,174,marron,38,Porto Alegre,Swaziland
+175,175,rouge,23,Tianjin,Saint Kitts and Nevis
+176,176,bleue,57,Castries,"Congo, The Democratic Republic of the"
+177,177,blanche,58,Recife,Denmark
+178,178,verte,52,Karachi,Indonesia
+179,179,noire,34,Antwerp,Lebanon
+180,180,orange,63,Cusco,New Caledonia
+181,181,orange,18,Cotonou,Switzerland
+182,182,jaune,30,Port Said,Congo
+183,183,bleue,16,Harare,Croatia
+184,184,marron,61,Bishkek,Guinea-Bissau
+185,185,verte,15,Melbourne,New Zealand
+186,186,orange,46,Banjul,Slovenia
+187,187,bleue,37,San Antonio,Armenia
+188,188,verte,64,Lomé,Kuwait
+189,189,verte,24,Pekanbaru,Mauritius
+190,190,jaune,23,Nairobi,Guyana
+191,191,noire,26,Salt Lake City,Maldives
+192,192,bleue,73,Okinawa,Mongolia
+193,193,jaune,28,Mbabane,Pitcairn
+194,194,verte,64,Omsk,Trinidad and Tobago
+195,195,orange,50,Kandy,Vanuatu
+196,196,jaune,62,La Paz,Congo
+197,197,noire,74,Salzburg,Paraguay
+198,198,marron,72,Apia,Saint Kitts and Nevis
+199,199,rouge,75,Guatemala City,United States
+200,200,rouge,46,Cusco,AndorrA
+201,201,marron,22,Kandahar,Thailand
+202,202,noire,52,Bamako,Yemen
+203,203,marron,63,Pelotas,Mayotte
+204,204,marron,60,Riyadh,Saint Kitts and Nevis
+205,205,verte,43,Thessaloniki,Faroe Islands
+206,206,rouge,44,Jeddah,Lesotho
+207,207,jaune,22,Dar es Salaam,Guyana
+208,208,blanche,37,Osaka,Nicaragua
+209,209,blanche,50,Kansas City,Brazil
+210,210,bleue,26,Belém,Thailand
+211,211,noire,34,George Town,Cameroon
+212,212,marron,62,Los Angeles,Tunisia
+213,213,blanche,15,Cleveland,India
+214,214,marron,49,Kota Bharu,"Macedonia, The Former Yugoslav Republic of"
+215,215,rouge,43,Timbuktu,Burkina Faso
+216,216,marron,65,Avarua,India
+217,217,marron,23,Leeds,Japan
+218,218,blanche,45,Buffalo,Jordan
+219,219,marron,74,Damascus,Spain
+220,220,rouge,43,Prague,"Virgin Islands, British"
+221,221,orange,40,Sabha,British Indian Ocean Territory
+222,222,noire,24,Yamoussoukro,Costa Rica
+223,223,bleue,62,Makassar,American Samoa
+224,224,orange,60,Incheon,Malawi
+225,225,bleue,64,Nairobi,Somalia
+226,226,rouge,43,Cusco,Honduras
+227,227,marron,33,Bloemfontein,Peru
+228,228,noire,50,Kandy,Tuvalu
+229,229,orange,40,Kolkata,Cameroon
+230,230,verte,33,Seattle,Christmas Island
+231,231,bleue,20,Sabha,Botswana
+232,232,noire,32,Malmö,Sweden
+233,233,orange,34,Zanzibar City,Armenia
+234,234,rouge,52,Siem Reap,Antarctica
+235,235,orange,18,Birkirkara,United States Minor Outlying Islands
+236,236,verte,61,São Tomé,Philippines
+237,237,blanche,35,Ljubljana,Grenada
+238,238,marron,46,Harbin,Jamaica
+239,239,marron,59,Perth,Equatorial Guinea
+240,240,rouge,51,Agartala,Mauritania
+241,241,marron,31,El Aaiún,Belize
+242,242,jaune,69,Mendoza,Gambia
+243,243,bleue,58,Stuttgart,Peru
+244,244,verte,75,Belfast,Maldives
+245,245,rouge,31,Luxor,Iraq
+246,246,noire,59,Mecca,Suriname
+247,247,jaune,63,Kandy,Cote D'Ivoire
+248,248,noire,17,Nashville,"Korea, Republic of"
+249,249,noire,62,Handan,French Southern Territories
+250,250,blanche,35,Vatican City,"Palestinian Territory, Occupied"
+251,251,jaune,33,Batticaloa,Yemen
+252,252,verte,29,Porto Alegre,Canada
+253,253,jaune,27,Tampa,Namibia
+254,254,marron,25,Zagreb,Lithuania
+255,255,blanche,55,Panama City,Central African Republic
+256,256,rouge,43,Lubumbashi,Ireland
+257,257,bleue,65,Dubai,Serbia and Montenegro
+258,258,blanche,49,Chittagong,Slovenia
+259,259,marron,29,Cleveland,Cuba
+260,260,orange,45,Antwerp,Nicaragua
+261,261,noire,28,Almaty,Sierra Leone
+262,262,marron,57,Dresden,Jamaica
+263,263,jaune,74,Kobe,Ukraine
+264,264,bleue,45,Graz,Panama
+265,265,marron,38,Durban,Austria
+266,266,bleue,58,Hagåtña,Malta
+267,267,noire,38,Edmonton,Puerto Rico
+268,268,verte,28,Yaren District,Isle of Man
+269,269,bleue,23,Luxor,Mayotte
+270,270,noire,20,Nice,Brazil
+271,271,blanche,56,Davao City,Western Sahara
+272,272,orange,54,Nukulaelae,Tonga
+273,273,orange,47,Abidjan,Greenland
+274,274,marron,52,Tbilisi,Saint Vincent and the Grenadines
+275,275,bleue,33,Port Louis,French Southern Territories
+276,276,blanche,39,Buenos Aires,Seychelles
+277,277,bleue,55,Singapore,Guinea-Bissau
+278,278,blanche,24,Ashgabat,Belgium
+279,279,rouge,20,Tskhinvali,"Iran, Islamic Republic Of"
+280,280,jaune,37,Gibraltar,Jersey
+281,281,marron,56,Dongguan,Gambia
+282,282,rouge,24,Adelaide,Mayotte
+283,283,orange,69,Denver,Indonesia
+284,284,rouge,61,New Orleans,Denmark
+285,285,orange,16,Alofi,Latvia
+286,286,noire,55,Udon Thani,Bhutan
+287,287,orange,16,Kingston,Lithuania
+288,288,marron,58,Hanga Roa,Latvia
+289,289,verte,52,Valparaíso,Ukraine
+290,290,noire,63,Quezon City,Bermuda
+291,291,rouge,48,Mersin,Mali
+292,292,orange,48,Omdurman,Tajikistan
+293,293,orange,28,Marrakech,Congo
+294,294,orange,26,Rockhampton,Bhutan
+295,295,bleue,38,Nagpur,Sierra Leone
+296,296,noire,41,New Orleans,Lebanon
+297,297,jaune,56,Changchun,San Marino
+298,298,jaune,59,Regina,"Tanzania, United Republic of"
+299,299,blanche,51,Adamstown,Morocco
+300,300,bleue,74,Charlotte Amalie,Lao People'S Democratic Republic
+301,301,bleue,57,Semarang,Nepal
+302,302,blanche,35,Kanpur,Dominica
+303,303,bleue,70,Nicosia,Mozambique
+304,304,jaune,45,Milwaukee,Russian Federation
+305,305,rouge,41,Baku,Central African Republic
+306,306,marron,26,Houston,Argentina
+307,307,bleue,22,Belfast,Estonia
+308,308,blanche,15,Rome,Djibouti
+309,309,marron,44,Doha,Iraq
+310,310,marron,26,Charlotte Amalie,Nauru
+311,311,jaune,53,Dongguan,South Africa
+312,312,noire,58,Manila,Netherlands Antilles
+313,313,blanche,34,Wichita,Puerto Rico
+314,314,jaune,42,Pelotas,"Micronesia, Federated States of"
+315,315,jaune,15,Invercargill,Argentina
+316,316,orange,58,Pittsburgh,Denmark
+317,317,orange,55,Kuwait City,Marshall Islands
+318,318,noire,54,Willemstad,"Virgin Islands, British"
+319,319,orange,19,Darwin,Qatar
+320,320,verte,20,Cologne,Luxembourg
+321,321,jaune,28,Stepanakert,"Tanzania, United Republic of"
+322,322,bleue,39,Ndola,Albania
+323,323,jaune,44,Sri Jayawardenapura-Kotte,"Virgin Islands, British"
+324,324,bleue,62,Jakarta,Cambodia
+325,325,orange,37,Kolkata,Mongolia
+326,326,bleue,15,Nanjing,Kuwait
+327,327,verte,41,Buenos Aires,Mauritania
+328,328,orange,31,Abuja,British Indian Ocean Territory
+329,329,rouge,22,El Paso,Nicaragua
+330,330,orange,60,Ambon,Reunion
+331,331,orange,33,Nanning,Senegal
+332,332,bleue,43,Santo Domingo,Saint Kitts and Nevis
+333,333,jaune,46,Jamestown,Cayman Islands
+334,334,rouge,62,Ponta Delgada,Timor-Leste
+335,335,jaune,38,Surat,Ethiopia
+336,336,marron,29,Belmopan,Albania
+337,337,blanche,74,Lanzhou,Nicaragua
+338,338,bleue,16,Panama City,Cape Verde
+339,339,verte,62,Ludhiana,Bolivia
+340,340,verte,59,Zürich,Monaco
+341,341,noire,24,Saint-Denis,AndorrA
+342,342,verte,40,Greenwich,Bermuda
+343,343,rouge,57,Kandy,Guatemala
+344,344,verte,57,Bangkok,Saint Lucia
+345,345,orange,56,Dili,Liechtenstein
+346,346,marron,41,Tirana,Heard Island and Mcdonald Islands
+347,347,rouge,40,Lyon,Nepal
+348,348,orange,45,Pittsburgh,Mexico
+349,349,rouge,30,Thiès,"Moldova, Republic of"
+350,350,jaune,66,Cincinnati,Tokelau
+351,351,blanche,30,Iquitos,Anguilla
+352,352,rouge,70,Buenos Aires,"Virgin Islands, British"
+353,353,verte,23,Sitka,Australia
+354,354,verte,46,Zhengzhou,Papua New Guinea
+355,355,marron,32,Shenyang,Myanmar
+356,356,blanche,72,Wuhan,Lithuania
+357,357,marron,73,Baku,Kazakhstan
+358,358,bleue,72,Oklahoma City,Cook Islands
+359,359,verte,29,Graz,Papua New Guinea
+360,360,rouge,37,Charlotte Amalie,Georgia
+361,361,noire,72,Stanley,Madagascar
+362,362,jaune,32,New Orleans,Oman
+363,363,verte,39,Winnipeg,Algeria
+364,364,marron,55,Sapporo,Angola
+365,365,blanche,26,Boston,Estonia
+366,366,verte,15,Busan,Brazil
+367,367,rouge,49,Freetown,Lao People'S Democratic Republic
+368,368,jaune,40,Ipoh,Niue
+369,369,marron,63,Mendoza,Canada
+370,370,marron,45,Ludhiana,Mali
+371,371,rouge,72,Astana,Bosnia and Herzegovina
+372,372,bleue,45,Doha,British Indian Ocean Territory
+373,373,marron,37,Livingstone,Iceland
+374,374,blanche,54,Seville,Sudan
+375,375,noire,73,Marseille,Myanmar
+376,376,rouge,62,Valdivia,Serbia and Montenegro
+377,377,verte,41,Mexicali,Iceland
+378,378,verte,52,Nanning,Libyan Arab Jamahiriya
+379,379,marron,31,Gaborone,Saint Pierre and Miquelon
+380,380,verte,75,Warsaw,Niue
+381,381,noire,69,Moroni,Paraguay
+382,382,marron,41,Addis Ababa,Kyrgyzstan
+383,383,noire,60,Canberra,Myanmar
+384,384,jaune,38,Astana,"Virgin Islands, U.S."
+385,385,bleue,40,Manama,Bulgaria
+386,386,orange,67,Petropavlovsk-Kamchatsky,Kazakhstan
+387,387,jaune,68,Algiers,Germany
+388,388,orange,41,Regina,Pitcairn
+389,389,marron,49,Lisbon,Iceland
+390,390,bleue,27,Guadalajara,Costa Rica
+391,391,orange,57,Amsterdam,Malawi
+392,392,marron,35,Nouakchott,Aruba
+393,393,bleue,39,Stanley,Indonesia
+394,394,noire,64,Edinburgh,Bahrain
+395,395,blanche,46,Kaesong,Cuba
+396,396,blanche,64,Vatican City,Greece
+397,397,jaune,30,Abidjan,Belize
+398,398,noire,73,Nicosia,Bulgaria
+399,399,bleue,49,Okinawa,Senegal
+400,400,bleue,73,Cologne,Saint Lucia
+401,401,rouge,68,Johannesburg,Nauru
+402,402,noire,55,Melbourne,Sao Tome and Principe
+403,403,jaune,25,Accra,Norway
+404,404,orange,33,Taichung,Thailand
+405,405,blanche,44,Luanda,United States
+406,406,bleue,38,Manama,Tokelau
+407,407,verte,59,Riyadh,Mongolia
+408,408,jaune,15,Cali,"Tanzania, United Republic of"
+409,409,verte,74,Karachi,Gambia
+410,410,rouge,41,Novosibirsk,Ghana
+411,411,noire,22,Guayaquil,Zimbabwe
+412,412,marron,59,Dalian,Bouvet Island
+413,413,blanche,17,Dili,Portugal
+414,414,rouge,53,Sana'a,Timor-Leste
+415,415,noire,30,Lagos,Argentina
+416,416,noire,70,Budapest,Bulgaria
+417,417,bleue,65,Ibiza,Reunion
+418,418,rouge,51,San Juan,United Kingdom
+419,419,jaune,31,Brisbane,Haiti
+420,420,marron,17,Juneau,Libyan Arab Jamahiriya
+421,421,verte,51,Melekeok,Yemen
+422,422,verte,46,Mérida,Guinea-Bissau
+423,423,orange,71,Amritsar,Niger
+424,424,rouge,29,Valdivia,Croatia
+425,425,marron,43,Belfast,Western Sahara
+426,426,jaune,42,Zürich,American Samoa
+427,427,orange,36,Yangon,Guinea
+428,428,orange,52,Changchun,Cape Verde
+429,429,bleue,19,Leipzig,Afghanistan
+430,430,blanche,33,Sabha,Portugal
+431,431,noire,48,Yogyakarta (city),Saint Lucia
+432,432,marron,36,Quezon City,Bermuda
+433,433,marron,75,City of Halifax,Comoros
+434,434,blanche,56,Kandy,Niue
+435,435,blanche,74,Chittagong,Slovakia
+436,436,noire,29,Tucson,Dominican Republic
+437,437,blanche,20,Serekunda,Greece
+438,438,blanche,70,Berlin,Åland Islands
+439,439,bleue,50,Patna,Hungary
+440,440,orange,19,George Town,United Kingdom
+441,441,orange,75,Hargeisa,El Salvador
+442,442,blanche,71,Patna,Libyan Arab Jamahiriya
+443,443,rouge,33,Miami,Puerto Rico
+444,444,bleue,16,Copenhagen,Angola
+445,445,verte,40,Ibiza,South Africa
+446,446,jaune,65,Yekaterinburg,Isle of Man
+447,447,noire,33,Kansas City,Zambia
+448,448,jaune,67,Batticaloa,Hong Kong
+449,449,marron,56,Murmansk,New Zealand
+450,450,orange,34,Ilhéus,Panama
+451,451,blanche,71,Guayaquil,Saint Vincent and the Grenadines
+452,452,blanche,43,Addis Ababa,Lithuania
+453,453,verte,16,Koror,Trinidad and Tobago
+454,454,bleue,47,Ho Chi Minh City,Cayman Islands
+455,455,marron,49,Douala,Jordan
+456,456,bleue,47,Magadan,South Georgia and the South Sandwich Islands
+457,457,jaune,36,Perth,"Congo, The Democratic Republic of the"
+458,458,blanche,50,Douala,Latvia
+459,459,bleue,67,Vientiane,Viet Nam
+460,460,rouge,33,San Fernando,Mayotte
+461,461,verte,73,Surabaya,Bouvet Island
+462,462,orange,53,Gothenburg,Poland
+463,463,verte,58,Dhaka,Austria
+464,464,jaune,49,San Fernando,Papua New Guinea
+465,465,rouge,65,Medellín,Cambodia
+466,466,marron,56,Chuí,Belgium
+467,467,verte,44,Rio Branco,Lithuania
+468,468,noire,43,Whitehorse,Timor-Leste
+469,469,rouge,69,Veracruz,Gabon
+470,470,jaune,19,Da Nang,Timor-Leste
+471,471,noire,39,Kingstown,"Virgin Islands, U.S."
+472,472,blanche,32,Jerusalem,Macao
+473,473,verte,40,Beirut,Belize
+474,474,blanche,69,Tripoli,Turkmenistan
+475,475,verte,61,Bulawayo,Venezuela
+476,476,rouge,70,Zamboanga City,Sweden
+477,477,bleue,28,Sofia,Seychelles
+478,478,jaune,72,Sapporo,"Iran, Islamic Republic Of"
+479,479,marron,23,Edinburgh,Slovakia
+480,480,noire,70,Bissau,Paraguay
+481,481,marron,45,Bucharest,Liberia
+482,482,orange,68,Mashhad,Togo
+483,483,jaune,58,Harbin,Bermuda
+484,484,blanche,57,Taichung,Netherlands
+485,485,rouge,47,Prague,Uganda
+486,486,jaune,18,Monrovia,Latvia
+487,487,jaune,52,Stockholm,Comoros
+488,488,marron,52,Macapá,Bahamas
+489,489,blanche,54,Petropavlovsk-Kamchatsky,Faroe Islands
+490,490,rouge,19,Concepción,Ireland
+491,491,bleue,19,Francistown,Myanmar
+492,492,bleue,47,Port of Spain,Anguilla
+493,493,marron,74,Antwerp,Papua New Guinea
+494,494,rouge,31,Konya,South Georgia and the South Sandwich Islands
+495,495,rouge,67,Kiev,Pitcairn
+496,496,blanche,73,Milan,Uruguay
+497,497,orange,51,Avarua,Cuba
+498,498,verte,30,Majuro,Colombia
+499,499,jaune,49,Timbuktu,Denmark
+500,500,rouge,36,Medan,United States
+501,501,rouge,50,City of San Marino,Georgia
+502,502,marron,55,Hyderabad,Somalia
+503,503,marron,25,Phuket (city),Senegal
+504,504,noire,56,Arbil,Mexico
+505,505,verte,49,Chuí,Isle of Man
+506,506,marron,70,Leipzig,Syrian Arab Republic
+507,507,noire,57,Kaesong,New Zealand
+508,508,rouge,50,Basra,Malawi
+509,509,noire,18,Malmö,Chile
+510,510,noire,20,Málaga,Luxembourg
+511,511,jaune,21,Gaza,Ukraine
+512,512,bleue,15,Qingdao,Cyprus
+513,513,verte,38,Jayapura,France
+514,514,blanche,64,Lviv,Guam
+515,515,verte,49,Nicosia,Congo
+516,516,jaune,34,Campinas,Benin
+517,517,bleue,31,Anchorage,Switzerland
+518,518,bleue,65,Tianjin,Puerto Rico
+519,519,orange,15,Geelong,Sierra Leone
+520,520,verte,33,Roseau,Cambodia
+521,521,marron,73,Mashhad,Kiribati
+522,522,jaune,46,Harbin,Egypt
+523,523,marron,20,Taiyuan,Tokelau
+524,524,rouge,75,Rio Branco,Macao
+525,525,marron,18,Denver,Burkina Faso
+526,526,rouge,18,Kano,Angola
+527,527,rouge,41,Sofia,Greenland
+528,528,orange,74,Kota Bharu,Togo
+529,529,blanche,27,Anadyr (town),"Macedonia, The Former Yugoslav Republic of"
+530,530,orange,31,Milwaukee,Ethiopia
+531,531,rouge,50,Port Said,Niger
+532,532,noire,48,Iquitos,Cook Islands
+533,533,noire,55,Ponta Delgada,Cocos (Keeling) Islands
+534,534,verte,60,Curitiba,Burundi
+535,535,verte,15,Graz,Netherlands
+536,536,blanche,47,Ouagadougou,Brazil
+537,537,rouge,33,Cuiabá,Burundi
+538,538,verte,33,Brasília,Tonga
+539,539,bleue,34,Montreal,Guyana
+540,540,bleue,20,São José dos Campos,Sierra Leone
+541,541,orange,52,Karachi,South Georgia and the South Sandwich Islands
+542,542,marron,46,Saint Petersburg,Macao
+543,543,blanche,39,Belmopan,Dominican Republic
+544,544,rouge,17,Surabaya,Saint Pierre and Miquelon
+545,545,verte,16,Edmonton,Sierra Leone
+546,546,marron,60,Tampa,Barbados
+547,547,rouge,15,Hai Phong,Antigua and Barbuda
+548,548,orange,65,Jersey City,Israel
+549,549,bleue,50,Suez,Pakistan
+550,550,marron,15,Petropavlovsk-Kamchatsky,"Macedonia, The Former Yugoslav Republic of"
+551,551,marron,20,Valdivia,South Georgia and the South Sandwich Islands
+552,552,marron,25,Mamoudzou,Vanuatu
+553,553,verte,66,Beirut,"Korea, Republic of"
+554,554,bleue,69,Faisalabad,Bulgaria
+555,555,noire,54,Islamabad,Comoros
+556,556,marron,19,Cologne,United States Minor Outlying Islands
+557,557,blanche,31,Rockhampton,American Samoa
+558,558,blanche,65,Dibrugarh,Peru
+559,559,verte,16,Sana'a Argentina,
+560,560,marron,69,Huế,New Caledonia
+561,561,marron,43,Dalian,Åland Islands
+562,562,blanche,70,Hagåtña,Romania
+563,563,orange,21,Shillong,Somalia
+564,564,jaune,44,Johor Bahru,Argentina
+565,565,marron,48,Surat,Montserrat
+566,566,rouge,25,Jeddah,Mozambique
+567,567,orange,47,Nashville,Portugal
+568,568,verte,62,Maputo,Guinea
+569,569,rouge,44,Johannesburg,Seychelles
+570,570,jaune,42,Singapore,"Korea, Republic of"
+571,571,jaune,69,Hobart,Nigeria
+572,572,bleue,64,Iquique,Dominica
+573,573,orange,22,Tunis,Norfolk Island
+574,574,verte,37,Fredericton,"Korea, Democratic People'S Republic of"
+575,575,rouge,46,Managua,San Marino
+576,576,rouge,39,Sarajevo,South Africa
+577,577,bleue,68,Durango,Uruguay
+578,578,jaune,49,Xi'an,Somalia
+579,579,verte,74,Naypyidaw,Liechtenstein
+580,580,verte,32,Taipei,Tokelau
+581,581,verte,46,Hong Kong,Bosnia and Herzegovina
+582,582,orange,43,Santiago,United Kingdom
+583,583,orange,75,Barcelona,Colombia
+584,584,rouge,28,Milwaukee,Gibraltar
+585,585,bleue,36,Lilongwe,Argentina
+586,586,rouge,25,Sapporo,Somalia
+587,587,orange,70,Suva,Heard Island and Mcdonald Islands
+588,588,jaune,69,Shenyang,Pakistan
+589,589,jaune,22,Macapá,Fiji
+590,590,orange,16,Cockburn Town,South Africa
+591,591,marron,43,Barcelona,Bangladesh
+592,592,jaune,39,Nairobi,Cote D'Ivoire
+593,593,bleue,38,N'Djamena,Martinique
+594,594,blanche,60,Tripoli,Iraq
+595,595,orange,64,Belmopan,Peru
+596,596,marron,46,Alofi,Monaco
+597,597,rouge,55,Dubai,"Macedonia, The Former Yugoslav Republic of"
+598,598,verte,67,Monrovia,Viet Nam
+599,599,noire,70,Riga,Suriname
+600,600,bleue,75,Concepción,Bouvet Island
+601,601,noire,39,Jacksonville,Saint Kitts and Nevis
+602,602,marron,52,Omsk,Guadeloupe
+603,603,noire,50,Montevideo,Algeria
+604,604,marron,54,Antofagasta,Tuvalu
+605,605,blanche,18,Makassar,Equatorial Guinea
+606,606,rouge,33,Mexico City,Niue
+607,607,rouge,64,Livingstone,Pakistan
+608,608,jaune,26,Mandurah,Yemen
+609,609,jaune,75,Port Hedland,Iceland
+610,610,orange,30,Canberra,Bouvet Island
+611,611,orange,29,Gothenburg,Tuvalu
+612,612,marron,53,Bilbao,Thailand
+613,613,noire,34,Kigali,Israel
+614,614,blanche,64,Bandung,Latvia
+615,615,jaune,26,Hiroshima,Indonesia
+616,616,jaune,26,Belize City,Togo
+617,617,marron,50,The Hague,"Macedonia, The Former Yugoslav Republic of"
+618,618,blanche,31,Helsinki,Venezuela
+619,619,marron,52,Murmansk,Malaysia
+620,620,verte,24,Adelaide,Honduras
+621,621,noire,26,Mandurah,Venezuela
+622,622,jaune,28,Iqaluit,Italy
+623,623,orange,64,Manama,Guernsey
+624,624,bleue,31,Kanpur,Djibouti
+625,625,rouge,37,Yaren District,Cayman Islands
+626,626,orange,75,Zapopan,Norway
+627,627,blanche,44,El Aaiún,Ireland
+628,628,marron,58,Beirut,Mauritania
+629,629,rouge,72,Mamoudzou,Russian Federation
+630,630,noire,50,Denver,Croatia
+631,631,orange,57,Austin,United Arab Emirates
+632,632,blanche,55,Port Blair,Iraq
+633,633,bleue,39,Greenwich,Tuvalu
+634,634,bleue,53,Pittsburgh,China
+635,635,jaune,16,Freetown,Belize
+636,636,marron,72,Bratsk,Luxembourg
+637,637,orange,55,Kyoto,"Korea, Democratic People'S Republic of"
+638,638,blanche,71,Cayenne,Dominican Republic
+639,639,blanche,26,Lagos,Sierra Leone
+640,640,jaune,17,Luxembourg (city),"Korea, Republic of"
+641,641,rouge,36,Rawalpindi,Georgia
+642,642,verte,32,Tashkent,Bosnia and Herzegovina
+643,643,noire,29,Hamilton,Yemen
+644,644,jaune,67,Oklahoma City,Liechtenstein
+645,645,jaune,72,Antwerp,Solomon Islands
+646,646,jaune,29,Djibouti (city),French Polynesia
+647,647,blanche,23,Tagbilaran,United Kingdom
+648,648,rouge,74,Tel Aviv,Marshall Islands
+649,649,blanche,21,Valencia,Heard Island and Mcdonald Islands
+650,650,noire,57,Valletta,Kyrgyzstan
+651,651,rouge,19,Marseille,Anguilla
+652,652,rouge,37,Changchun,Bahrain
+653,653,rouge,34,Kabul,Ireland
+654,654,verte,70,Raleigh,Georgia
+655,655,verte,26,Chongqing,"Palestinian Territory, Occupied"
+656,656,jaune,37,Hanoi,Denmark
+657,657,marron,35,Mwanza,Mayotte
+658,658,jaune,28,Antofagasta,Romania
+659,659,blanche,30,La Serena,Jamaica
+660,660,marron,32,Berlin,"Tanzania, United Republic of"
+661,661,verte,39,Stuttgart,Mozambique
+662,662,verte,31,Birkirkara,Netherlands Antilles
+663,663,bleue,31,San Carlos de Bariloche,Syrian Arab Republic
+664,664,blanche,51,Hamburg,Slovenia
+665,665,verte,51,Nukuʻalofa,Lebanon
+666,666,marron,39,Invercargill,Canada
+667,667,jaune,37,Lisbon,Lao People'S Democratic Republic
+668,668,noire,66,Yerevan,Germany
+669,669,blanche,45,Birkirkara,Congo
+670,670,bleue,64,Alor Star,United States
+671,671,blanche,46,Charlotte,Saint Kitts and Nevis
+672,672,noire,35,Gaziantep,Cuba
+673,673,rouge,45,Papeete,Sierra Leone
+674,674,orange,36,Yaoundé,Niue
+675,675,noire,15,Ilhéus,Netherlands Antilles
+676,676,verte,54,Cusco,Tonga
+677,677,bleue,47,Oslo,Uzbekistan
+678,678,jaune,40,Papeete,Nicaragua
+679,679,blanche,67,Karachi,Åland Islands
+680,680,blanche,65,Nouakchott,Cyprus
+681,681,bleue,73,Hagåtña,Fiji
+682,682,noire,74,Iqaluit,Russian Federation
+683,683,noire,66,Kuala Lumpur,Colombia
+684,684,orange,61,Nukuʻalofa,Suriname
+685,685,blanche,60,San Juan,Ecuador
+686,686,blanche,22,City of Halifax,Lesotho
+687,687,blanche,64,Recife,Equatorial Guinea
+688,688,noire,61,Horta (Azores),Guadeloupe
+689,689,orange,49,Rabat,Myanmar
+690,690,blanche,54,Palikir,Marshall Islands
+691,691,rouge,67,Davao City,Lithuania
+692,692,jaune,49,Quebec City,Northern Mariana Islands
+693,693,bleue,51,Mogadishu,Maldives
+694,694,rouge,32,Suez,"Moldova, Republic of"
+695,695,jaune,37,Samara,United States Minor Outlying Islands
+696,696,verte,17,Assis,Philippines
+697,697,verte,36,Honiara,Poland
+698,698,bleue,34,Semarang,Philippines
+699,699,bleue,69,Colombo,Colombia
+700,700,noire,64,Valencia,Bulgaria
+701,701,marron,39,Córdoba,French Polynesia
+702,702,blanche,50,Tabriz,Honduras
+703,703,jaune,48,Innsbruck,"Micronesia, Federated States of"
+704,704,marron,41,Serekunda,Mozambique
+705,705,marron,36,Honiara,Tonga
+706,706,marron,36,Greenwich,Isle of Man
+707,707,orange,33,Serekunda,Bahrain
+708,708,bleue,25,New Orleans,Kuwait
+709,709,blanche,58,Ndola,Burkina Faso
+710,710,blanche,38,Luxembourg (city),Macao
+711,711,jaune,21,Tskhinvali,Guinea
+712,712,noire,57,Edmonton,Ukraine
+713,713,verte,58,Bulawayo,Saint Pierre and Miquelon
+714,714,orange,35,Málaga,Germany
+715,715,verte,35,Baku,Bouvet Island
+716,716,marron,56,Douglas,Peru
+717,717,noire,74,Chişinău,Indonesia
+718,718,rouge,27,Philadelphia,Monaco
+719,719,blanche,74,Dhaka,Uzbekistan
+720,720,blanche,70,Lahore,Anguilla
+721,721,blanche,74,Hamilton,Afghanistan
+722,722,marron,57,Koulikoro,Serbia and Montenegro
+723,723,marron,69,Nouméa,Falkland Islands (Malvinas)
+724,724,orange,20,The Valley,Lebanon
+725,725,blanche,63,Xining,Mozambique
+726,726,orange,72,Moroni,Cuba
+727,727,marron,57,Bridgetown,Kiribati
+728,728,marron,27,Mogadishu,Russian Federation
+729,729,rouge,17,Copenhagen,Poland
+730,730,verte,41,Louisville,Lithuania
+731,731,noire,45,Yellowknife,Namibia
+732,732,noire,22,George Town,Cambodia
+733,733,bleue,35,Zapopan,Guyana
+734,734,noire,37,Rockhampton,Malawi
+735,735,blanche,29,Port-au-Prince,Luxembourg
+736,736,noire,37,Accra,Grenada
+737,737,bleue,45,Jerusalem,Dominica
+738,738,verte,18,Atlanta,Antigua and Barbuda
+739,739,bleue,59,Lviv,Belarus
+740,740,orange,62,Las Vegas,French Guiana
+741,741,noire,34,Valletta,American Samoa
+742,742,jaune,36,Horta (Azores),Dominican Republic
+743,743,blanche,35,Santiago de Cuba,Venezuela
+744,744,orange,73,Kanpur,Qatar
+745,745,orange,53,Tagbilaran,Senegal
+746,746,orange,74,Nouakchott,El Salvador
+747,747,bleue,24,Oklahoma City,Bangladesh
+748,748,verte,65,Iqaluit,Anguilla
+749,749,verte,64,Recife,Montserrat
+750,750,noire,41,Okinawa,Cote D'Ivoire
+751,751,noire,18,São José dos Campos,Serbia and Montenegro
+752,752,jaune,28,Kingston,Madagascar
+753,753,blanche,36,Liverpool,Mexico
+754,754,noire,42,Wichita,Grenada
+755,755,noire,43,Mamoudzou,Vanuatu
+756,756,orange,63,Nairobi,Kiribati
+757,757,bleue,63,Ottawa,"Korea, Democratic People'S Republic of"
+758,758,blanche,45,Gaziantep,Tunisia
+759,759,noire,18,Yaoundé,Niger
+760,760,verte,21,Angra do Heroísmo,Namibia
+761,761,blanche,43,Magadan,Cayman Islands
+762,762,orange,18,Helsinki,Palau
+763,763,jaune,36,Lobamba,American Samoa
+764,764,rouge,15,Dibrugarh,South Georgia and the South Sandwich Islands
+765,765,noire,56,Oranjestad,United States Minor Outlying Islands
+766,766,jaune,68,Huế,New Zealand
+767,767,marron,38,Cape Town,Angola
+768,768,orange,31,Balikpapan,Russian Federation
+769,769,blanche,60,Assis,Angola
+770,770,jaune,45,Shillong,Guadeloupe
+771,771,orange,38,Yaoundé,Zimbabwe
+772,772,noire,18,Phuket (city),Heard Island and Mcdonald Islands
+773,773,bleue,15,Koulikoro,Grenada
+774,774,jaune,38,Enugu,Trinidad and Tobago
+775,775,verte,72,Port-au-Prince,Burkina Faso
+776,776,rouge,17,Yaoundé,United Arab Emirates
+777,777,rouge,25,Adana,Yemen
+778,778,orange,70,Providence,Iraq
+779,779,marron,43,Manaus,Bosnia and Herzegovina
+780,780,rouge,49,Liverpool,Poland
+781,781,blanche,33,Puerto Williams,Morocco
+782,782,marron,46,Hiroshima,Bahamas
+783,783,rouge,67,Banda Aceh,Germany
+784,784,noire,43,Malang,Lesotho
+785,785,marron,20,Incheon,Belgium
+786,786,orange,43,Tripoli,Dominica
+787,787,noire,56,Saskatoon,Guadeloupe
+788,788,verte,61,Hangzhou,Angola
+789,789,blanche,56,Baghdad,China
+790,790,rouge,37,Montevideo,United States
+791,791,jaune,51,Siem Reap,Niger
+792,792,jaune,50,Saskatoon,Kiribati
+793,793,orange,24,Apia,Sao Tome and Principe
+794,794,jaune,66,Albuquerque,Wallis and Futuna
+795,795,bleue,22,Riverside,Bulgaria
+796,796,bleue,23,Salt Lake City,Eritrea
+797,797,marron,52,Yakutsk,Bolivia
+798,798,blanche,17,The Hague,Syrian Arab Republic
+799,799,orange,69,Columbus,Togo
+800,800,jaune,60,Saskatoon,Pitcairn
+801,801,rouge,38,Hamburg,"Taiwan, Province of China"
+802,802,verte,63,Iquitos,Comoros
+803,803,jaune,60,Thimphu,"Taiwan, Province of China"
+804,804,blanche,39,Bilbao,Sweden
+805,805,bleue,31,Kraków,Dominican Republic
+806,806,rouge,62,Tegucigalpa,Ecuador
+807,807,bleue,51,Copenhagen,Tunisia
+808,808,rouge,73,Lahore,Japan
+809,809,noire,16,Kawasaki,Vanuatu
+810,810,blanche,42,Philadelphia,Bolivia
+811,811,bleue,73,San Francisco,Syrian Arab Republic
+812,812,jaune,70,Kanpur,American Samoa
+813,813,noire,37,Detroit,Antarctica
+814,814,blanche,31,Hong Kong,Germany
+815,815,noire,39,Semarang,Papua New Guinea
+816,816,blanche,25,Kingston,Angola
+817,817,jaune,36,Changchun,Haiti
+818,818,jaune,24,Bishkek,Greenland
+819,819,blanche,74,Weno,United States Minor Outlying Islands
+820,820,verte,59,Pontianak,Costa Rica
+821,821,jaune,33,Cairns,Qatar
+822,822,bleue,64,Alofi,Guam
+823,823,noire,40,Johannesburg,Sao Tome and Principe
+824,824,marron,51,Antwerp,Mayotte
+825,825,noire,30,Kaesong,Belarus
+826,826,verte,46,Cork (city),Poland
+827,827,verte,49,Anadyr (town),Lesotho
+828,828,blanche,53,Nicosia,Tonga
+829,829,marron,59,Nice,Macao
+830,830,noire,75,Paramaribo,Hong Kong
+831,831,jaune,19,Tirana,Cyprus
+832,832,blanche,72,Islamabad,Georgia
+833,833,rouge,30,Lisbon,Slovenia
+834,834,orange,27,Baltimore,"Taiwan, Province of China"
+835,835,jaune,52,Kigali,Malta
+836,836,bleue,26,New York City,Comoros
+837,837,verte,65,Port Moresby,Nepal
+838,838,rouge,31,Kaliningrad,Cuba
+839,839,noire,45,Montreal,Central African Republic
+840,840,bleue,33,Lyon,Congo
+841,841,jaune,73,Pyongyang,Japan
+842,842,rouge,74,Port Hedland,Sri Lanka
+843,843,rouge,70,Toulouse,Mauritania
+844,844,orange,67,Pyongyang,Belgium
+845,845,rouge,27,Whitehorse,Reunion
+846,846,noire,38,Amman,Sri Lanka
+847,847,blanche,63,Bloemfontein,Afghanistan
+848,848,blanche,67,Abidjan,Qatar
+849,849,rouge,48,Ouagadougou,Brazil
+850,850,jaune,32,Milan,Montserrat
+851,851,rouge,35,Vitória,Faroe Islands
+852,852,bleue,32,Dresden,Brazil
+853,853,marron,20,Dresden,Qatar
+854,854,verte,18,Changchun,Turks and Caicos Islands
+855,855,orange,32,Nicosia,Cote D'Ivoire
+856,856,verte,45,Tamale,Lao People'S Democratic Republic
+857,857,rouge,27,Hargeisa,"Korea, Democratic People'S Republic of"
+858,858,rouge,47,Jayapura,Guinea-Bissau
+859,859,bleue,65,El Aaiún,Lao People'S Democratic Republic
+860,860,orange,45,Quezon City,Barbados
+861,861,noire,62,Bandung,United States
+862,862,verte,42,Bogotá,Faroe Islands
+863,863,bleue,67,Kandahar,Uganda
+864,864,bleue,46,Saint John,Namibia
+865,865,orange,70,Rabat,Ecuador
+866,866,rouge,73,Cape Town,Mayotte
+867,867,noire,48,Davao City,Martinique
+868,868,orange,61,Port Moresby,"Tanzania, United Republic of"
+869,869,verte,75,Leeds,Armenia
+870,870,rouge,59,Singapore,Costa Rica
+871,871,marron,55,Cork (city),Guinea-Bissau
+872,872,jaune,33,Tegucigalpa,Austria
+873,873,jaune,72,Santa Cruz de la Sierra,Somalia
+874,874,verte,62,Enugu,Slovakia
+875,875,verte,25,Hamburg,Hungary
+876,876,verte,69,Batticaloa,Gibraltar
+877,877,rouge,61,Chicago,Turkey
+878,878,bleue,39,Tegucigalpa,Sao Tome and Principe
+879,879,orange,48,Kano,Czech Republic
+880,880,jaune,38,Seville,Viet Nam
+881,881,verte,20,Skopje,Canada
+882,882,verte,45,Durban,Kyrgyzstan
+883,883,marron,40,Medan,Russian Federation
+884,884,marron,16,Campo Grande,Saint Lucia
+885,885,orange,26,El Paso,Nauru
+886,886,bleue,41,Koulikoro,Malta
+887,887,rouge,59,Hobart,Iceland
+888,888,marron,65,Kandahar,Libyan Arab Jamahiriya
+889,889,bleue,50,Glasgow,Albania
+890,890,rouge,32,Amman,Burkina Faso
+891,891,rouge,18,Abidjan,Saint Kitts and Nevis
+892,892,marron,29,Minsk,American Samoa
+893,893,blanche,30,Recife,Kiribati
+894,894,bleue,48,Newcastle,Slovenia
+895,895,rouge,69,Yogyakarta (city),Nicaragua
+896,896,orange,21,Nanning,Pitcairn
+897,897,blanche,15,Jeddah,Yemen
+898,898,verte,75,Istanbul,Lebanon
+899,899,rouge,28,Marseille,Seychelles
+900,900,marron,16,Barranquilla,French Guiana
+901,901,bleue,67,Marseille,Gabon
+902,902,noire,31,Yamoussoukro,France
+903,903,marron,18,Phnom Penh,Somalia
+904,904,rouge,69,Changchun,United States Minor Outlying Islands
+905,905,orange,48,Dakar,Sudan
+906,906,orange,43,Leeds,Antarctica
+907,907,noire,49,San José,Nauru
+908,908,rouge,15,St. John's Saint Helena,
+909,909,orange,69,Norilsk,Estonia
+910,910,orange,28,Managua,Peru
+911,911,bleue,23,Bulawayo,RWANDA
+912,912,verte,61,Mwanza,Tajikistan
+913,913,blanche,69,Hamburg,Jamaica
+914,914,blanche,49,Chuí,"Macedonia, The Former Yugoslav Republic of"
+915,915,rouge,34,Kandahar,Cambodia
+916,916,orange,66,Kuala Lumpur,Thailand
+917,917,orange,54,Huế,Bahrain
+918,918,jaune,34,Multan,Guernsey
+919,919,blanche,43,Cincinnati,Malawi
+920,920,jaune,61,Shanghai,Sweden
+921,921,jaune,36,Kano,Australia
+922,922,jaune,31,Moscow,Burkina Faso
+923,923,orange,35,Belgrade,Western Sahara
+924,924,verte,47,Chongjin,Cuba
+925,925,bleue,37,Manzini,United Kingdom
+926,926,verte,23,Hangzhou,Cuba
+927,927,verte,32,Bamako,Tokelau
+928,928,noire,48,Bissau,New Zealand
+929,929,blanche,71,Pittsburgh,Reunion
+930,930,noire,48,Hanoi,Estonia
+931,931,noire,63,Wollongong,"Micronesia, Federated States of"
+932,932,marron,30,Tegucigalpa,Japan
+933,933,orange,62,Sabha,Cyprus
+934,934,marron,17,Canberra,Venezuela
+935,935,orange,67,Pristina,Holy See (Vatican City State)
+936,936,noire,20,Da Nang,Fiji
+937,937,verte,46,Bangui,"Tanzania, United Republic of"
+938,938,noire,19,Bern,Swaziland
+939,939,verte,69,Montreal,Honduras
+940,940,blanche,61,Handan,Uganda
+941,941,orange,66,Colombo,Singapore
+942,942,bleue,25,Charlotte Amalie,Mexico
+943,943,verte,64,Cali,Colombia
+944,944,bleue,35,Honolulu,Sierra Leone
+945,945,orange,58,Graz,Lebanon
+946,946,noire,51,Quebec City,Puerto Rico
+947,947,blanche,57,Punta Arenas,Georgia
+948,948,verte,68,Cairns,Mongolia
+949,949,noire,39,Port Louis,Svalbard and Jan Mayen
+950,950,jaune,16,Pyongyang,Mexico
+951,951,marron,46,Kota Bharu,Turkey
+952,952,jaune,70,Yerevan,Samoa
+953,953,bleue,44,Panama City,Bhutan
+954,954,blanche,57,Ljubljana,Northern Mariana Islands
+955,955,bleue,20,Lusaka,Burkina Faso
+956,956,orange,36,Peshawar,Libyan Arab Jamahiriya
+957,957,bleue,70,Nukus,RWANDA
+958,958,verte,75,Harbin,Cote D'Ivoire
+959,959,noire,41,Bucharest,Faroe Islands
+960,960,rouge,44,Phuket (city),Papua New Guinea
+961,961,orange,46,Port Hedland,"Iran, Islamic Republic Of"
+962,962,orange,67,Phoenix,New Zealand
+963,963,orange,43,Las Vegas,Palau
+964,964,orange,65,Edmonton,Gambia
+965,965,blanche,58,Pelotas,French Polynesia
+966,966,rouge,19,Saint John,Greece
+967,967,noire,44,Tokyo,Bahrain
+968,968,verte,17,Iqaluit,Armenia
+969,969,bleue,28,Zanzibar City,Libyan Arab Jamahiriya
+970,970,orange,59,Riverside,AndorrA
+971,971,rouge,28,Guatemala City,Ireland
+972,972,bleue,33,Koror,Romania
+973,973,orange,27,Pittsburgh,South Georgia and the South Sandwich Islands
+974,974,noire,25,Ibadan,Martinique
+975,975,orange,19,Rio Branco,Swaziland
+976,976,marron,28,Stockholm,Nauru
+977,977,marron,19,Addis Ababa,Mauritius
+978,978,verte,51,Medan,Zambia
+979,979,noire,39,Bergen,Belize
+980,980,rouge,34,Mersin,Portugal
+981,981,marron,60,Zapopan,"Macedonia, The Former Yugoslav Republic of"
+982,982,marron,22,Maseru,Canada
+983,983,jaune,56,Malabo,Hungary
+984,984,marron,16,Kuwait City,Canada
+985,985,blanche,35,Hobart,Falkland Islands (Malvinas)
+986,986,orange,26,Panama City,Dominican Republic
+987,987,rouge,21,"St. George""s",Norfolk Island
+988,988,orange,39,Saint-Denis,Kyrgyzstan
+989,989,jaune,32,Amritsar,Dominica
+990,990,verte,28,Zagreb,Bhutan
+991,991,orange,61,Kuwait City,Zambia
+992,992,rouge,18,Aarhus,Mexico
+993,993,jaune,28,Sarajevo,Saint Helena
+994,994,marron,74,Saint-Pierre,Dominican Republic
+995,995,verte,47,São Tomé,French Southern Territories
+996,996,rouge,51,Bratsk,Australia
+997,997,verte,73,Dongguan,Timor-Leste
+998,998,marron,46,Guatemala City,Georgia
+999,999,verte,37,Dubai,United States
+1000,1000,verte,46,Colombo,Cape Verde
